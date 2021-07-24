@@ -1,2 +1,2 @@
-# Centralized-Properties-Serve
+# Centralized-Properties-Server
 Config server will maintain common properties
