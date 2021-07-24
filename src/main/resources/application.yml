@@ -7,9 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/saravananjkm176/Centralized-Properties-Serve    
-    
-    
+          uri: https://github.com/saravananjkm176/Centralized-Properties-Serve       
 eureka:
   client:
      register-with-eureka: true
@@ -19,4 +17,10 @@ eureka:
      instance: localhost
      preferIpAddress: true
      lease-renewal-interval-in-seconds: 10
-     lease-expiration-duration-in-seconds: 20      
+     lease-expiration-duration-in-seconds: 20    
+ 
+city:
+   name: Jayankondam    
+   
+
+ 
